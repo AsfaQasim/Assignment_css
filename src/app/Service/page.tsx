@@ -37,6 +37,8 @@ export default function Service() {
               </div>
             ))}
           </div>
-        </div>git initgit init
+        </div>
+        </section>
+        </div>
   );
 }
